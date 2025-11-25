@@ -1,0 +1,1 @@
+irm "<paste raw url here>" | iex
